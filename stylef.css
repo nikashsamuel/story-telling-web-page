@@ -1,0 +1,15 @@
+.{
+    margin: 0;padding: 0;
+}
+form{
+    background-color: yellow; border: 2px green; width: 60%;margin-left: 10%; padding: 50px;
+}
+label{
+    display: block;
+}
+input{
+    margin-left: 25px; height: 25px;border: 2px red; color: blue;
+}
+button{
+    background-color: aqua;color: azure; padding: 10px; margin-left: 50px;
+}

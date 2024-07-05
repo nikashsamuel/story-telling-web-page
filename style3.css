@@ -1,0 +1,13 @@
+.story2{
+    background-color:blue;
+}
+.story2 h1
+{
+   color: #dc143c; text-decoration: underline; margin-bottom: 10px; text-align: center;
+}
+.story2 p {
+    margin-left: 10px; 
+}
+.story2 p::first-letter {
+    color: green;font-size: 40px;font-style: italic;
+}
